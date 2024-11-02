@@ -45,7 +45,7 @@ int checkCollisionXY(Mask m, int x, int y)
 	return result;
 }
 
-//Returns 1 or 0 depending on if there is a collision with a type of tile
+//Returns 1 or 0 depending on if there is a collision with a type of tile ok
 int checkTileCollision(int type, Mask m)
 {
 	int result = 0;
